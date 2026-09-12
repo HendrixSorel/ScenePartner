@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "version": "1.1.1",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.1/ScenePartner-Setup-1.1.1.exe",
+  "sha256": "418e00a98d87c9bca2e3dc305ebd9b27478fa4778ff47c1e414914ef1c099ca4",
+  "size": 31278371,
+  "published_at": "2026-09-12T00:46:06.6657003Z",
+  "notes": "Connects Scene Partner to secure automatic updates, adds the Omegaverse scenario genre, and includes the latest Windows setup and interface fixes."
+}
