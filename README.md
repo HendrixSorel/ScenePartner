@@ -13,7 +13,7 @@ Windows may show an **Unknown Publisher** warning because this community build i
 ## Highlights
 
 - Private local chat and roleplay with no Scene Partner account
-- 264 ready-made scenarios across 55 genres
+- 288 ready-made scenarios across 61 genres
 - Character card maker and SillyTavern-compatible PNG/JSON imports
 - Local neural text-to-speech and anime-style illustrations
 - Long-conversation continuity, loop recovery, Continue, and suggested replies
@@ -28,4 +28,4 @@ Private phone access can be enabled through Tailscale without opening a router p
 
 ## Current release
 
-Scene Partner 1.1.2 adds Nature Retreat—a forest-green, warm-wood appearance with soft sunlight accents and mobile-friendly styling—and improves update-panel readability across light themes.
+Scene Partner 1.1.3 expands the Scenario Shelf with Era-spanning science fiction, Alternate history, Lesbian romance, Bisexual romance, Gay romance, and Trans romance—four ready-made stories for each new genre.
