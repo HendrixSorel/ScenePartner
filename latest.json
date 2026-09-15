@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.1.1",
-  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.1/ScenePartner-Setup-1.1.1.exe",
-  "sha256": "418e00a98d87c9bca2e3dc305ebd9b27478fa4778ff47c1e414914ef1c099ca4",
-  "size": 31278371,
-  "published_at": "2026-09-12T00:46:06.6657003Z",
-  "notes": "Connects Scene Partner to secure automatic updates, adds the Omegaverse scenario genre, and includes the latest Windows setup and interface fixes."
+  "version": "1.1.2",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.2/ScenePartner-Setup-1.1.2.exe",
+  "sha256": "df3c43cab18814b9f6667421a34f61fe787dd7e553169f57493b67684b559a64",
+  "size": 31278013,
+  "published_at": "2026-09-15T02:15:36.9628959Z",
+  "notes": "Adds the Nature Retreat appearance with forest greens, warm wood tones, parchment surfaces, soft sunlight accents, and mobile-friendly styling. Also improves update-panel readability across light themes."
 }

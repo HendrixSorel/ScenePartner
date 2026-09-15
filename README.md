@@ -17,7 +17,7 @@ Windows may show an **Unknown Publisher** warning because this community build i
 - Character card maker and SillyTavern-compatible PNG/JSON imports
 - Local neural text-to-speech and anime-style illustrations
 - Long-conversation continuity, loop recovery, Continue, and suggested replies
-- Desktop and mobile-friendly interface with multiple nostalgic messenger themes
+- Desktop and mobile-friendly interface with nostalgic messenger themes and a cozy Nature appearance
 - Checksum-verified automatic updates
 
 ## Privacy
@@ -28,4 +28,4 @@ Private phone access can be enabled through Tailscale without opening a router p
 
 ## Current release
 
-Scene Partner 1.1.1 adds the Omegaverse Scenario Shelf genre, connects secure automatic updates, and includes the latest Windows setup and interface fixes.
+Scene Partner 1.1.2 adds Nature Retreat—a forest-green, warm-wood appearance with soft sunlight accents and mobile-friendly styling—and improves update-panel readability across light themes.
