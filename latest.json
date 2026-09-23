@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.1.3",
-  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.3/ScenePartner-Setup-1.1.3.exe",
-  "sha256": "336d3e6362cb881f9a5d66ce349942bfbf460ae631b719d0ad9dff8a27801f00",
-  "size": 31279904,
-  "published_at": "2026-09-15T15:28:42.3197561Z",
-  "notes": "Expands the Scenario Shelf with Era-spanning science fiction, Alternate history, Lesbian romance, Bisexual romance, Gay romance, and Trans romance. Adds four ready-made scenarios for each new genre, bringing the shelf to 288 scenarios across 61 genres."
+  "version": "1.1.4",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.4/ScenePartner-Setup-1.1.4.exe",
+  "sha256": "0f3f76a5ba25178f80e3c612c1d0045bf4f3db926e6c462784337179af36d5b7",
+  "size": 31284468,
+  "published_at": "2026-09-23T22:39:56.9638987Z",
+  "notes": "Adds separate factual scene-state and emotional relationship memory for stronger long-form continuity, safer user agency, and fewer continuity hallucinations. Existing conversation memory is preserved automatically."
 }
