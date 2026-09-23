@@ -16,16 +16,15 @@ Windows may show an **Unknown Publisher** warning because this community build i
 - 288 ready-made scenarios across 61 genres
 - Character card maker and SillyTavern-compatible PNG/JSON imports
 - Local neural text-to-speech and anime-style illustrations
-- Long-conversation continuity, loop recovery, Continue, and suggested replies
+- Separate factual scene-state and emotional relationship memory for long-form continuity
+- Loop recovery, Continue, and context-aware suggested replies
 - Desktop and mobile-friendly interface with nostalgic messenger themes and a cozy Nature appearance
 - Checksum-verified automatic updates
 
 ## Privacy
 
-Conversations, personas, character cards, generated media, downloaded models, and runtime caches stay on the user's own computer. This repository hosts only official release downloads and the small update-feed file.
-
-Private phone access can be enabled through Tailscale without opening a router port or making Scene Partner public.
+Conversations, personas, character cards, generated media, downloaded models, and runtime caches stay on the user's own computer. This repository hosts only official release downloads and the small update-feed file. Private phone access can be enabled through Tailscale without opening a router port or making Scene Partner public.
 
 ## Current release
 
-Scene Partner 1.1.3 expands the Scenario Shelf with Era-spanning science fiction, Alternate history, Lesbian romance, Bisexual romance, Gay romance, and Trans romance—four ready-made stories for each new genre.
+Scene Partner 1.1.4 adds separate factual scene-state and emotional relationship memory for stronger long-form continuity, safer player agency, and fewer continuity hallucinations. Existing conversation memory is migrated automatically.
