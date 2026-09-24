@@ -17,6 +17,7 @@ Windows may show an **Unknown Publisher** warning because this community build i
 - Character card maker and SillyTavern-compatible PNG/JSON imports
 - Local neural text-to-speech and anime-style illustrations
 - Separate factual scene-state and emotional relationship memory for long-form continuity
+- Slow-burn intimacy pacing that treats adult content as optional and honors boundaries immediately
 - Loop recovery, Continue, and context-aware suggested replies
 - Desktop and mobile-friendly interface with nostalgic messenger themes, the cozy Nature retreat, and the dark Midnight lounge
 - Checksum-verified automatic updates
@@ -27,4 +28,4 @@ Conversations, personas, character cards, generated media, downloaded models, an
 
 ## Current release
 
-Scene Partner 1.1.5 adds the Midnight lounge appearance with matte black panels, navy chrome, electric-blue roleplay actions, roomier reply cards, square portraits, and responsive desktop and mobile layouts. Existing conversations and private AI components are preserved automatically.
+Scene Partner 1.1.6 adds an intimacy-pacing governor that preserves slow-burn tension, prevents ambiguous flirting from triggering unwanted physical escalation, and honors boundary or space language immediately. Existing conversations and private AI components are preserved automatically.
