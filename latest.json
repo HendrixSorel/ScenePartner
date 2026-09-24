@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.1.5",
-  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.5/ScenePartner-Setup-1.1.5.exe",
-  "sha256": "d44f9f2284341d5e53cd30f5ee7991c7ed6c9d04777ca145bb43f4de63283d7a",
-  "size": 31281116,
-  "published_at": "2026-09-24T04:30:59.9387814Z",
-  "notes": "Adds the Midnight lounge appearance with matte black panels, navy chrome, electric-blue action styling, roomier reply cards, and responsive desktop and mobile layouts."
+  "version": "1.1.6",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.6/ScenePartner-Setup-1.1.6.exe",
+  "sha256": "83a30365167c425f0e8575d7b7e1e5b4c30aa3c859c7cf7cea55b49b6ba58eea",
+  "size": 31283882,
+  "published_at": "2026-09-24T15:29:35.5878270Z",
+  "notes": "Adds an intimacy-pacing governor that preserves slow-burn tension, treats adult content as optional, keeps ambiguous flirting from triggering physical escalation, and honors boundary or space language immediately."
 }
