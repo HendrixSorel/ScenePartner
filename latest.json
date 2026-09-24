@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.1.4",
-  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.4/ScenePartner-Setup-1.1.4.exe",
-  "sha256": "0f3f76a5ba25178f80e3c612c1d0045bf4f3db926e6c462784337179af36d5b7",
-  "size": 31284468,
-  "published_at": "2026-09-23T22:39:56.9638987Z",
-  "notes": "Adds separate factual scene-state and emotional relationship memory for stronger long-form continuity, safer user agency, and fewer continuity hallucinations. Existing conversation memory is preserved automatically."
+  "version": "1.1.5",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.5/ScenePartner-Setup-1.1.5.exe",
+  "sha256": "d44f9f2284341d5e53cd30f5ee7991c7ed6c9d04777ca145bb43f4de63283d7a",
+  "size": 31281116,
+  "published_at": "2026-09-24T04:30:59.9387814Z",
+  "notes": "Adds the Midnight lounge appearance with matte black panels, navy chrome, electric-blue action styling, roomier reply cards, and responsive desktop and mobile layouts."
 }
