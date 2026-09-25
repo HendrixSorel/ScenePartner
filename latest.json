@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.1.6",
-  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.1.6/ScenePartner-Setup-1.1.6.exe",
-  "sha256": "83a30365167c425f0e8575d7b7e1e5b4c30aa3c859c7cf7cea55b49b6ba58eea",
-  "size": 31283882,
-  "published_at": "2026-09-24T15:29:35.5878270Z",
-  "notes": "Adds an intimacy-pacing governor that preserves slow-burn tension, treats adult content as optional, keeps ambiguous flirting from triggering physical escalation, and honors boundary or space language immediately."
+  "version": "1.2.0",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.2.0/ScenePartner-Setup-1.2.0.exe",
+  "sha256": "8f9a364941ed5869d9322ceeac52d19a6dbadafdef4580831a0a66cd40ba33c5",
+  "size": 31289306,
+  "published_at": "2026-09-25T10:20:30.8059835Z",
+  "notes": "Major roleplay update: Qwen3 14B local model, faster natural replies, stronger emotional and factual continuity, improved action/dialogue formatting, better user-agency protection, guarded intimacy pacing, default personas and generated portraits, plus interface and mobile refinements."
 }
