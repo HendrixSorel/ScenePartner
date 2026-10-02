@@ -21,6 +21,7 @@ Windows may show an **Unknown Publisher** warning because this community build i
 - Player-agency protection and clean action/dialogue formatting
 - Intimacy pacing that preserves chemistry without turning ordinary moments sexual without a clear lead from the user
 - Loop recovery, Continue, and context-aware suggested replies
+- Complete portable backups with validation and automatic rollback before restore
 - Desktop and mobile-friendly interface with nostalgic messenger themes, the cozy Nature retreat, and the dark Midnight lounge
 - Checksum-verified automatic updates
 
@@ -32,6 +33,6 @@ Private phone access can be enabled through Tailscale without opening a router p
 
 ## Current release
 
-Scene Partner 1.2.0 is the major roleplay update. It introduces the official Qwen3 14B local model, faster and more natural replies, stronger emotional and factual continuity, cleaner action/dialogue formatting, improved player-agency protection, and guarded intimacy pacing.
+Scene Partner 1.2.1 adds complete portable `.spbackup` files for conversations, messages, factual and emotional memory, personas, characters, settings, portraits, illustrations, and generated speech. Restores validate the archive before changing data and automatically create a rollback backup first.
 
-This release also includes default personas, generated character portraits, interface and mobile refinements, and all Scenario Shelf and appearance additions from the 1.1 series.
+The 1.2 series also includes the official Qwen3 14B local model, stronger emotional and factual continuity, cleaner action/dialogue formatting, improved player-agency protection, guarded intimacy pacing, default personas, generated character portraits, and the latest mobile and interface refinements.
