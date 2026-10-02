@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.2.0",
-  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.2.0/ScenePartner-Setup-1.2.0.exe",
-  "sha256": "8f9a364941ed5869d9322ceeac52d19a6dbadafdef4580831a0a66cd40ba33c5",
-  "size": 31289306,
-  "published_at": "2026-09-25T10:20:30.8059835Z",
-  "notes": "Major roleplay update: Qwen3 14B local model, faster natural replies, stronger emotional and factual continuity, improved action/dialogue formatting, better user-agency protection, guarded intimacy pacing, default personas and generated portraits, plus interface and mobile refinements."
+  "version": "1.2.1",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.2.1/ScenePartner-Setup-1.2.1.exe",
+  "sha256": "6184dc1acf799d0d3badf70b7bab8a73f8ec86629f8ff168fdf5cf738be656a6",
+  "size": 31295566,
+  "published_at": "2026-09-29T21:39:51.3430300Z",
+  "notes": "Complete portable backups for conversations, personas, characters, settings, portraits, illustrations, and generated speech, with integrity validation and an automatic rollback before restore."
 }
