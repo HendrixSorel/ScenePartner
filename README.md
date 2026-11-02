@@ -17,12 +17,9 @@ Windows may show an **Unknown Publisher** warning because this community build i
 - 288 ready-made scenarios across 61 genres
 - Character card maker and SillyTavern-compatible PNG/JSON imports
 - Local neural text-to-speech and anime-style illustrations
-- Separate factual scene-state and emotional relationship memory for long-form continuity
-- Player-agency protection and clean action/dialogue formatting
-- Intimacy pacing that preserves chemistry without turning ordinary moments sexual without a clear lead from the user
-- Loop recovery, Continue, and context-aware suggested replies
-- Complete portable backups with validation and automatic rollback before restore
-- Desktop and mobile-friendly interface with nostalgic messenger themes, the cozy Nature retreat, and the dark Midnight lounge
+- Long-conversation continuity, loop recovery, Continue, and suggested replies
+- Local Rulebooks with visible story progression, seven tracker types, starter templates, and a visual maker
+- Desktop and mobile-friendly interface with nostalgic messenger themes and a cozy Nature appearance
 - Checksum-verified automatic updates
 
 ## Privacy
@@ -33,6 +30,6 @@ Private phone access can be enabled through Tailscale without opening a router p
 
 ## Current release
 
-Scene Partner 1.2.1 adds complete portable `.spbackup` files for conversations, messages, factual and emotional memory, personas, characters, settings, portraits, illustrations, and generated speech. Restores validate the archive before changing data and automatically create a rollback backup first.
+Scene Partner 1.3.0 adds local Rulebooks: visible, conversation-specific story progression that can track trust, affection, tension, health, supplies, time, changing states, collections, and dice outcomes. It includes a guided visual maker, reusable templates, safe editing and cleanup, manual corrections, and JSON import/export.
 
-The 1.2 series also includes the official Qwen3 14B local model, stronger emotional and factual continuity, cleaner action/dialogue formatting, improved player-agency protection, guarded intimacy pacing, default personas, generated character portraits, and the latest mobile and interface refinements.
+Rulebooks influence character behavior without deciding the player's feelings or choices. Progress belongs only to the conversation where it was earned and is included in portable backups.
