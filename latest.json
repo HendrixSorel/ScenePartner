@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "channel": "stable",
-  "version": "1.2.1",
-  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.2.1/ScenePartner-Setup-1.2.1.exe",
-  "sha256": "6184dc1acf799d0d3badf70b7bab8a73f8ec86629f8ff168fdf5cf738be656a6",
-  "size": 31295566,
-  "published_at": "2026-09-29T21:39:51.3430300Z",
-  "notes": "Complete portable backups for conversations, personas, characters, settings, portraits, illustrations, and generated speech, with integrity validation and an automatic rollback before restore."
+  "version": "1.3.0",
+  "installer_url": "https://github.com/HendrixSorel/ScenePartner/releases/download/v1.3.0/ScenePartner-Setup-1.3.0.exe",
+  "sha256": "044998c0ea97dfac0d728b5476f87687865c89fde839896cd3159106242108d5",
+  "size": 31331533,
+  "published_at": "2026-11-02T01:48:33.2000314Z",
+  "notes": "Local Rulebooks with per-conversation progression, seven tracker types, visual creation templates, manual corrections, portable import/export, new-scene selection, and safe library management."
 }
